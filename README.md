@@ -20,13 +20,13 @@ This is a **Product Details screen** built as part of an e-commerce application 
 ## 📸 Screenshots
 
 ### Home Start Page
-![Product Details](screenshots/screen1.png)
+![image alt](https://github.com/suryamkumar/Product-Category/blob/main/screenshots/screen1.jpg)
 
 ### Home End Page
-![Image Gallery](screenshots/screen2.png)
+![Image alt](https://github.com/suryamkumar/Product-Category/blob/main/screenshots/screen2.jpg)
 
 ### Whole Page Screenshot
-![Product Info](screenshots/screen3.png)
+![Product alt](https://github.com/suryamkumar/Product-Category/blob/main/screenshots/screen3.jpg)
 
 ## 🌐 API Used
 - Product Details Web Service:  
